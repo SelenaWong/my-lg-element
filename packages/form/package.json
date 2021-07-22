@@ -1,5 +1,5 @@
 {
-  "name": "lg-form",
+  "name": "lg-form-qt",
   "version": "0.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -15,5 +15,5 @@
     "async-validator": "^3.5.2",
     "lodash": "4"
   },
-  "gitHead": "f32b69e4a29dc0559faeb59ea82ac47b036e303d"
+  "gitHead": "8064cce365ae380636ed90b6e0d6e62f1a7e3215"
 }
