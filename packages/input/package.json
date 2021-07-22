@@ -1,0 +1,18 @@
+{
+  "name": "lg-input",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "del": "rimraf dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "3"
+  },
+  "gitHead": "f32b69e4a29dc0559faeb59ea82ac47b036e303d"
+}
